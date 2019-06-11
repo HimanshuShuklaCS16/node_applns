@@ -1,0 +1,11 @@
+{
+  "name": "node_applns",
+  "version": "1.0.0",
+  "description": "this is an example of node applns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "himanshu shukla",
+  "license": "ISC"
+}
